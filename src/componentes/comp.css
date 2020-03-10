@@ -1,0 +1,38 @@
+
+body{
+    background-image: url('./imagenes/590571.jpg');
+    
+
+    
+
+  }
+    body {
+        font: 14px "Arial", Futura, sans-serif;
+        margin: 20px;
+      }
+    .Cuerpo-Formulario{
+      min-height: 10vh;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-size: calc(5px + 1vmin);
+      background-color: #c9e078;
+      border-collapse: collapse;}
+    .Cuerpo-Formulario{
+      min-height: 10vh;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-size: calc(5px + 1vmin);
+      background-color: #c9e078;
+      border-collapse: collapse;
+    }
+      .th, td, th{
+        border: 1px solid rgb(39, 168, 34);
+        text-align-last: center;
+      }
+    .Cuerpo-formulario{
+      size:calc(50px + 1vmin);
+    }
+      
+      
