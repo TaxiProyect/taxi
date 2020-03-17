@@ -1,13 +1,21 @@
 import React, { Component } from 'react';
 import './comp.css';
+import './imag.css';
 class Cuerpo extends Component {
     render() {
         return (
-            
-           <div className="Formulario">
+  
+           <div className="Formulario container">
+               <br/>
+               <br/>
+               <br/>
+
+                
+
+                
                 <form method="post" action="https://es.reactjs.org/docs/getting-started.html">
                 <fieldset>
-                    <legend><h1>TaxiFAst</h1></legend>
+                    <legend><h1>TaxiFast</h1></legend>
 
                     <label for="username">Correo Electronico</label><br/>
                     <input type="text" name="username" id ="username"
@@ -26,6 +34,9 @@ class Cuerpo extends Component {
                 <button type="button" class="btn btn-link">Registrarse</button>
 
             </form>
+                    
+                           
+                        
             </div>
         );
     }

@@ -6,7 +6,7 @@ import Cuerpo from './componentes/dearrollo'
 class App extends React.Component {
   render(){
      return (
-       <div className="App container" >
+       <div className="App " >
          <Head/>
          <Cuerpo/>
 
