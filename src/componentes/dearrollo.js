@@ -5,7 +5,7 @@ class Cuerpo extends Component {
     render() {
         return (
   
-           <div className="Formulario container">
+           <div className="Formulario ">
                <br/>
                <br/>
                <br/>
